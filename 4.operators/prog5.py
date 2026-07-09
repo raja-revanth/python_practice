@@ -1,0 +1,6 @@
+print("Apple">"apple")
+print("apples">"GRAPES")
+print(ord("a"))
+print(ord("b"))
+print(ord("1"))
+#ascii(American standard code interchangeable information)
